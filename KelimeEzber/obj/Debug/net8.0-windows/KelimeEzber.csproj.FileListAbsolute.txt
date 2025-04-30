@@ -1,0 +1,17 @@
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\bin\Debug\net8.0-windows\KelimeEzber.exe
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\bin\Debug\net8.0-windows\KelimeEzber.deps.json
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\bin\Debug\net8.0-windows\KelimeEzber.runtimeconfig.json
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\bin\Debug\net8.0-windows\KelimeEzber.dll
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\bin\Debug\net8.0-windows\KelimeEzber.pdb
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.Main.resources
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.SoruForm.resources
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.csproj.GenerateResource.cache
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.AssemblyInfoInputs.cache
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.AssemblyInfo.cs
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.csproj.CoreCompileInputs.cache
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.dll
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\refint\KelimeEzber.dll
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.pdb
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\KelimeEzber.genruntimeconfig.cache
+C:\Users\ynaz2\Desktop\KelimeEzber\KelimeEzber\obj\Debug\net8.0-windows\ref\KelimeEzber.dll
